@@ -1,0 +1,1 @@
+//index1.js :This project demonstrates my learning of Node.js and Express.js. It includes middleware logging, parsing form data, and handling GET and POST requests. JSON data is fetched, displayed in HTML, and updated dynamically using file operations with the fs module. Middleware is implemented for enhanced request handling and custom headers.
