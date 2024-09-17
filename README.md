@@ -10,3 +10,5 @@ Fetch users (GET /fetchdata)
 Update users (PATCH /patch/:id)
 Delete users (DELETE /delete/:id)
 This project helps me learn how to build a RESTful API using MongoDB and Express.
+
+//mvc: This project is a simple Express.js application that demonstrates the use of MVC (Model-View-Controller) architecture. It implements routing, middleware for request/response logging, and MongoDB for database connection
