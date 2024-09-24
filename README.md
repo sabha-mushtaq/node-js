@@ -12,3 +12,7 @@ Delete users (DELETE /delete/:id)
 This project helps me learn how to build a RESTful API using MongoDB and Express.
 
 //mvc: This project is a simple Express.js application that demonstrates the use of MVC (Model-View-Controller) architecture. It implements routing, middleware for request/response logging, and MongoDB for database connection
+
+// ssr
+
+This project is a simple Student Management System built with Node.js, Express.js, and MongoDB. One of the key features I learned during this project is Server-Side Rendering (SSR) using EJS. This allows the application to dynamically generate HTML pages on the server and serve them to the client, enhancing performance and SEO.
