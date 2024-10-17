@@ -28,3 +28,7 @@ MongoDB integration for user data storage.
 JSON and URL-encoded body parsing.
 EJS for rendering dynamic HTML pages.
 Cookies management using cookie-parser.
+
+
+// Express.js Authentication API (Stateful Authentication with JWT & bcrypt)
+This project is an Express.js server that implements stateful authentication using JWT (JSON Web Token) and password hashing with bcrypt. It allows users to securely authenticate and manage sessions.
